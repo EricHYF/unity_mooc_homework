@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Homework-8/Scene/CLS8_AIBot.unity
+    guid: c68bd57442c8d43d496529c5401d5871
   m_configObjects: {}
