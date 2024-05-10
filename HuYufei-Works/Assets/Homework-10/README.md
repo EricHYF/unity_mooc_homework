@@ -73,8 +73,9 @@ public class HelloWorldPlayer : NetworkBehaviour
 先在Editor内运行游戏, 同时打开已经构建好的App
 
 - Editor内选择 HOST
-
 - App 内选择 Client
+
+![](Doc/sc_04.png)
 
 可以看到 Client 已经可以同步 Host 内移动中的Player 的坐标了
 
